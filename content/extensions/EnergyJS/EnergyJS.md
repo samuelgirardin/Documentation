@@ -13,6 +13,9 @@ EnergyJS is a bit different. Unlike Cannon&Oimo, EnergyJS is not 100% written in
 # Demos
 
 * [car & trailers](http://www.visualiser.fr/energy/index.php?ID=1)
+* [trimeshes collision](http://www.visualiser.fr/energy/index.php?ID=15)
+* [ballJoint](http://www.visualiser.fr/energy/index.php?ID=13)
+* [woodMachine](http://www.visualiser.fr/energy/index.php?ID=12)
 
 Tuto1_friction
 
