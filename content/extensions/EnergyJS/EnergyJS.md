@@ -21,15 +21,15 @@ EnergyJS is a bit different. Unlike Cannon&Oimo, EnergyJS is not 100% written in
 this list is not exhaustive. To be completed.
 
 **dynamic body proporties**
-* [friction]
-* [friction2]
-* [bounce]
-* [rolling_friction]
-* [rolling_friction2]
-* [contact_cfm_erp]
-* [contact_cfm_erp2]
-* [motion]
-* [auto_disable_body]
+* [friction]()
+* [friction2]()
+* [bounce]()
+* [rolling_friction]()
+* [rolling_friction2]()
+* [contact_cfm_erp]()
+* [contact_cfm_erp2]()
+* [motion]()
+* [auto_disable_body]()
 
 
 
