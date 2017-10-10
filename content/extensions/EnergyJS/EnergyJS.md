@@ -17,10 +17,11 @@ EnergyJS is a bit different. Unlike Cannon&Oimo, EnergyJS is not 100% written in
 * [ballJoint](http://www.visualiser.fr/energy/index.php?ID=13)
 * [woodMachine](http://www.visualiser.fr/energy/index.php?ID=12)
 
-## Features
+## Features *surface parameter*
+this list is not exhaustive. To be completed.
 
 * [friction]
-* friction2]
+* [friction2]
 * [bounce]
 * [rolling_friction]
 * [rolling_friction2]
