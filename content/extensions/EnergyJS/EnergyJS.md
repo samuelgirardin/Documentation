@@ -4,11 +4,11 @@
 ## Introduction
 
 EnergyJS is a  3d physic engine. One more ? We already have CannonJS & OimoJS working well with BJS physic  plugin. So why working on a third one ? 
-EnergyJS is a bit different. Unlike Cannon&Oimo, EnergyJS is not 100% written in classic JS. EnergyJS is a port of the c++ project [Open dynamic Engine](http://www.ode.org) by Russel Smith made possible by [Emscripten framework](http://emscripten.org). Basically you can resume this process by  :  ode c++ sources → Emscripten compiler → output low level javascript file. This last file is a 'clone' of the c++ engine, it will behave exactly like  a c++ build. In order to use it with babylonjs we need a typescrpit interface/wrapper to communincate with it. 
+EnergyJS is a bit different. Unlike Cannon&Oimo, EnergyJS is not 100% written in classic JS. EnergyJS is a port of the c++ project [Open dynamic Engine](http://www.ode.org) (Russel Smith) made possible by [Emscripten framework](http://emscripten.org). Basically you can resume this process by  :  ode c++ sources → Emscripten compiler → output low level javascript file. This last file is a 'clone' of the c++ engine, it will behave exactly like  a c++ build. In order to use it with babylonjs we need a typescrpit interface/wrapper to communincate with it. 
 
 * Pros : really fast, high accuracy, good stacking, well documented (ode's doc), asm.js & webAssembly ready
 
-* Cons : js sources unreadable, c++ to js workflow is not public at the moment, bjs physic plugin will not be avalable during the alpha version (energy code may change).
+* Cons : js sources unreadable, c++ to js workflow is not public at the moment, bjs physic plugin will not be available during the alpha version (energy code may change).
 
 ## Demos
 
